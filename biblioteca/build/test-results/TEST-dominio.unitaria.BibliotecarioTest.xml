@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dominio.unitaria.BibliotecarioTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-07-29T01:24:59" hostname="DESKTOP-5LRR1B2" time="0.541">
+  <properties/>
+  <testcase name="esPrestadoTest" classname="dominio.unitaria.BibliotecarioTest" time="0.532"/>
+  <testcase name="libroNoPrestadoTest" classname="dominio.unitaria.BibliotecarioTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
